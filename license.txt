@@ -1,0 +1,17 @@
+#Images:
+
+- 1st image:
+    name:user-front-side-with-white-background.jpg
+    authoer:qalebstudio
+    source:<a href="https://www.freepik.com/free-photo/user-front-side-with-white-background_42312477.htm#fromView=search&page=1&position=3&uuid=d153e623-7341-4ae2-8350-6c90fa0e17eb">Image by qalebstudio on Freepik</a>
+
+- 2nd image:
+    name:cartoon-character-with-handbag-sunglasses.jpg
+    authoer:sara_guerra
+    source:<a href="https://www.freepik.com/free-photo/cartoon-character-with-handbag-sunglasses_40058967.htm#fromView=search&page=2&position=4&uuid=4932c077-72ee-4ed9-8254-66f0e170dd44">Image by sara_guerra on Freepik</a>
+
+- 3rd image:
+    name:fashion-boy-with-yellow-jacket-blue-pants.jpg
+    authoer:sara_guerra
+    source:<a href="https://www.freepik.com/free-photo/fashion-boy-with-yellow-jacket-blue-pants_40058954.htm#fromView=search&page=2&position=8&uuid=4932c077-72ee-4ed9-8254-66f0e170dd44">Image by sara_guerra on Freepik</a>
+
