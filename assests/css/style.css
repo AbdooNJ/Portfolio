@@ -661,3 +661,30 @@ textarea::placeholder {
     grid-template-columns: 1fr;
   }
 }
+@media (max-width: 470px) {
+  .home-content {
+    align-items: center;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-align: center;
+  }
+  .home-content h3 {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-size: 2.2rem;
+  }
+  .home-content h1 {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-size: 4.5rem;
+  }
+  .home-content p {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    max-width: none;
+    font-size: 1.4rem;
+  }
+  .home-img img {
+    width: 55vw;
+  }
+}
