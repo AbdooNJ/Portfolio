@@ -25,15 +25,3 @@ menu_icon.onclick = () => {
   menu_icon.classList.toggle("bx-x");
   navbar.classList.toggle("active");
 };
-for (const link of nav_links) {
-  link.addEventListener("click", (event) => {
-    event.preventDefault();
-    // Get the target section from the link's href attribute
-    const targetSection = document.querySelector(link.getAttribute("href"));
-    // Scroll to the target section
-    targetSection.scrollIntoView({
-      behavior: "smooth",
-      block: "start",
-    });
-  });
-}
